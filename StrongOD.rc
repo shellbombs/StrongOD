@@ -1,0 +1,28 @@
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,1
+PRODUCTVERSION 1,0,0,1
+FILEOS 0x40004
+FILETYPE 0x3
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "Bombs"
+		VALUE "FileDescription", "Make Your OllyDbg Stronger!"
+		VALUE "FileVersion", "1.0.0.1"
+		VALUE "InternalName", "StrongOD.sys"
+		VALUE "LegalCopyright", "Copyright (c) Bombs. All rights reserved."
+		VALUE "OriginalFilename", "StrongOD.sys"
+		VALUE "ProductName", "Bombs's StrongOD"
+		VALUE "ProductVersion", "1.0.0.1"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+

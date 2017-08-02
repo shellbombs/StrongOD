@@ -1,0 +1,8 @@
+TARGETNAME = fengyue0
+TARGETPATH = SYS
+TARGETTYPE = DRIVER
+
+SOURCES = StrongOD.c \
+	   HelperFunc.c \
+	   DetourFunc.c \
+	   StrongOD.rc
